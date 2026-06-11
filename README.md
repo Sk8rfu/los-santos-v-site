@@ -98,7 +98,7 @@ Although the client itself was never completed, the website remains as a preserv
 
 The site is deployed using **GitHub Pages**.
 
-sk8rfu.github.io/los-santos-v-site/
+https://sk8rfu.github.io/los-santos-v-site/
 
 ---
 
