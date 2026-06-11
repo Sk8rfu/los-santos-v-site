@@ -2,6 +2,16 @@
   <img src="https://github.com/Sk8rfu/los-santos-v-site/blob/main/welcome.png?raw=true?raw=true">
 </p>
 
+![Status](https://img.shields.io/badge/Status-Archived-blue)
+![Project Age](https://img.shields.io/badge/Years-2021--2022-lightgrey)
+![Type](https://img.shields.io/badge/Type-Concept-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GTA Inspired](https://img.shields.io/badge/Inspired%20By-GTA%20V-black)
+![FiveM Concept](https://img.shields.io/badge/Client%20Idea-FiveM%20Style-yellow)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![GitHub Pages](https://img.shields.io/badge/Hosted%20On-GitHub%20Pages-blue)
+
 # Los Santos V - Archived Client Concept Website (2021–2022)
 
 This repository contains an archived concept website for **Los Santos V**, an early idea for a custom multiplayer client inspired by GTA V.  
